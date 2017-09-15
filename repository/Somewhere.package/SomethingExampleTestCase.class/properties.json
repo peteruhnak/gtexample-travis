@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTExampleTestCase",
+	"category" : "Somewhere",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SomethingExampleTestCase",
+	"type" : "normal"
+}
